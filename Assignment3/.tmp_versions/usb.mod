@@ -1,0 +1,2 @@
+/home/atom/my/device_drivers/new/code/college_assignments/git/Assignment3/usb.ko
+/home/atom/my/device_drivers/new/code/college_assignments/git/Assignment3/main.o /home/atom/my/device_drivers/new/code/college_assignments/git/Assignment3/usb_commands.o /home/atom/my/device_drivers/new/code/college_assignments/git/Assignment3/block.o /home/atom/my/device_drivers/new/code/college_assignments/git/Assignment3/handle_request.o
